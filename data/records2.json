@@ -1,0 +1,283 @@
+
+
+[
+{
+    "name":"Name of some place",
+    "location":{
+        "lat":"42.1212",
+        "lng":"80.3652"
+    },
+    "images":{
+        "img1":"https://www.nativeplanet.com/img/2018/09/chelavara-water-falls-1537353908.jpg",
+        "img2":"https://www.transindiatravels.com/wp-content/uploads/jog-falls-1.jpg"
+    },
+    "language":{
+        "en":"Place desc in english",
+        "ka":"place desc in kannada",
+        "hi":"place desc in hindi"
+    },
+    "description":"Description of the place",
+    "town":"town",
+    "city":"Mysore",
+    "state":"Karnataka",
+    "country":"India",
+    "free":true,
+    "verified":false
+},
+
+{
+    "name":"Name of some place",
+    "location":{
+        "lat":"45.3991",
+        "lng":"89.3976"
+    },
+    "images":{
+        "img1":"https://img.traveltriangle.com/blog/wp-content/uploads/2018/05/mandu.jpg",
+        "img2":"https://img.traveltriangle.com/blog/wp-content/uploads/2018/05/rajwada_cover_1_700x367.jpg"
+    },
+    "language":{
+        "en":"Place desc in english",
+        "ka":"",
+        "hi":"place desc in hindi"
+    },
+    "description":"Description of the place",
+    "town":"Town",
+    "city":"Indore",
+    "state":"Madhya Pradesh",
+    "country":"India",
+    "free":true,
+    "verified":false
+},
+{
+    "name":"Name of some place",
+    "location":{
+        "lat":"45.3991",
+        "lng":"89.3976"
+    },
+    "images":{
+        "img1":"https://www.nativeplanet.com/img/2018/09/chelavara-water-falls-1537353908.jpg",
+        "img2":"https://www.transindiatravels.com/wp-content/uploads/jog-falls-1.jpg"
+    },
+    "language":{
+        "en":"Place desc in english",
+        "ka":"",
+        "hi":"place desc in hindi"
+    },
+    "description":"Description of the place",
+    "town":"Town",
+    "city":"Indore",
+    "state":"Madhya Pradesh",
+    "country":"India",
+    "free":true,
+    "verified":false
+},
+{
+    "name":"Name of some place",
+    "location":{
+        "lat":"45.3991",
+        "lng":"85.6258"
+    },
+    "images":{
+        "img1":"https://www.fabhotels.com/blog/wp-content/uploads/2019/03/1000x650-5.jpg",
+        "img2":"https://img.traveltriangle.com/blog/wp-content/uploads/2020/06/Ambedkar-Memorial-Park_8th-June.jpg"
+    },
+    "language":{
+        "en":"Place desc in english",
+        "ka":"",
+        "hi":"place desc in hindi"
+    },
+    "description":"Description of the place",
+    "town":"Town",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "country":"India",
+    "free":true,
+    "verified":false
+},
+{
+    "name":"Name of some place",
+    "location":{
+        "lat":"45.3991",
+        "lng":"89.9999"
+    },
+    "images":{
+        "img1":"https://img.traveltriangle.com/blog/wp-content/uploads/2020/02/Nashik-og_21st-Feb.jpg",
+        "img2":"https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/Nashik-Hill-stations0310.jpg"
+    },
+    "language":{
+        "en":"Place desc in english",
+        "ka":"",
+        "hi":"place desc in hindi"
+    },
+    "description":"Description of the place",
+    "town":"Town",
+    "city":"Nashik",
+    "state":"Maharashtra",
+    "country":"India",
+    "free":true,
+    "verified":false
+},
+
+{
+    "name":"Name of some place",
+    "location":{
+        "lat":"37.7373",
+        "lng":"97.3997"
+    },
+    "images":{
+        "img1":"http://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2018/04/Cover-Imaage.jpg",
+        "img2":"https://img.traveltriangle.com/blog/wp-content/uploads/2018/04/Sela-Pass-In-Arunachal-Pradesh.jpg"
+    },
+    "language":{
+        "en":"Place desc in english",
+        "ka":"",
+        "hi":"place desc in hindi"
+    },
+    "description":"Description of the place",
+    "town":"Town",
+    "city":"Tawang",
+    "state":"Arunachal Pradesh",
+    "country":"India",
+    "free":true,
+    "verified":false
+},
+{
+    "name":"Name of some place",
+    "location":{
+        "lat":"39.9973",
+        "lng":"89.3976"
+    },
+    "images":{
+        "img1":"https://www.holidify.com/images/tooltipImages/ALLEPPEY.jpg",
+        "img2":"https://media-cdn.tripadvisor.com/media/photo-s/0d/de/f0/eb/backwater-tourism.jpg"
+    },
+    "language":{
+        "en":"Place desc in english",
+        "ka":"",
+        "hi":"place desc in hindi"
+    },
+    "description":"Description of the place",
+    "town":"Town",
+    "city":"Kochi",
+    "state":"Kerala",
+    "country":"India",
+    "free":true,
+    "verified":false
+},
+{
+    "name":"Name of some place",
+    "location":{
+        "lat":"45.3991",
+        "lng":"78.2236"
+    },
+    "images":{
+        "img1":"https://img.traveltriangle.com/blog/wp-content/uploads/2019/12/Meghamalai-Madurai_2nd-dec.jpg",
+        "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/38/0a/3d/caption.jpg?w=300&h=300&s=1"
+    },
+    "language":{
+        "en":"Place desc in english",
+        "ka":"",
+        "hi":"place desc in hindi"
+    },
+    "description":"Description of the place",
+    "town":"Town",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "country":"India",
+    "free":true,
+    "verified":false
+},
+{
+    "name":"Name of some place",
+    "location":{
+        "lat":"50.6632",
+        "lng":"90.3365"
+    },
+    "images":{
+        "img1":"https://pickyourtrail.com/blog/wp-content/uploads/2020/05/boudhayan-bardhan-VNlwWP-sy1A-unsplash-scaled.jpg",
+        "img2":"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2018/02/guwahati.jpg"
+    },
+    "language":{
+        "en":"Place desc in english",
+        "ka":"",
+        "hi":"place desc in hindi"
+    },
+    "description":"Description of the place",
+    "town":"Town",
+    "city":"Guwahati",
+    "state":"Assam",
+    "country":"India",
+    "free":true,
+    "verified":false
+},
+{
+    "name":"Name of some place",
+    "location":{
+        "lat":"45.3991",
+        "lng":"22.3215"
+    },
+    "images":{
+        "img1":"https://www.gujaratexpert.com/blog/wp-content/uploads/2018/08/Great-Rann-of-Kutch-Gujrat.jpg",
+        "img2":"https://www.tripsavvy.com/thmb/FbaLdyaHvRSsZ2QqcnUckE-nhJE=/1883x1412/smart/filters:no_upscale()/GettyImages-537000923-541774dbe2d44759815fdf0719b04685.jpg"
+    },
+    "language":{
+        "en":"Place desc in english",
+        "ka":"",
+        "hi":"place desc in hindi"
+    },
+    "description":"Description of the place",
+    "town":"Town",
+    "city":"Rann of Kutch",
+    "state":"Gujarat",
+    "country":"India",
+    "free":true,
+    "verified":false
+},
+{
+    "name":"Name of some place",
+    "location":{
+        "lat":"30.1144",
+        "lng":"89.3976"
+    },
+    "images":{
+        "img1":"https://www.jaipurstuff.com/wp-content/uploads/2019/10/sunset-jalmahal.jpg",
+        "img2":"https://i1.wp.com/www.jaipurstuff.com/wp-content/uploads/2019/10/jal-mahal-sunset-places-jaipur.jpg?resize=640%2C358&ssl=1"
+    },
+    "language":{
+        "en":"Place desc in english",
+        "ka":"",
+        "hi":"place desc in hindi"
+    },
+    "description":"Description of the place",
+    "town":"Town",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "country":"India",
+    "free":true,
+    "verified":false
+},
+
+{
+    "name":"Name of some place",
+    "location":{
+        "lat":"46.3312",
+        "lng":"89.4444"
+    },
+    "images":{
+        "img1":"https://assets.traveltriangle.com/blog/wp-content/uploads/2016/01/rdb-fort-chandigarh.jpg",
+        "img2":"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/06/Zakir-Hussain-Rose-Garden1.jpg"
+    },
+    "language":{
+        "en":"Place desc in english",
+        "ka":"",
+        "hi":"place desc in hindi"
+    },
+    "description":"Description of the place",
+    "town":"Town",
+    "city":"Patiala",
+    "state":"Punjab",
+    "country":"India",
+    "free":true,
+    "verified":false
+}
+]
