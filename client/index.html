@@ -8,53 +8,76 @@
 </head>
 <body>
     <header>
-        <img src="https://www.nativeplanet.com/img/2018/09/chelavara-water-falls-1537353908.jpg" alt="img1 in indore" height="300px" width="400px" style="margin-left: 40%;">
+
     </header>
-    <div>
-        <label for="place-name"></label>
-        <input type="text" name="place-name" id="name">
-        <br><br>
-       en <input type="text" name="" id="">
-       ka <input type="text" name="" id="">
-       hi <input type="text" name="" id="">
-        P1 <input type="file" name="place-photo-1" id="">   <br>
-        P2 <input type="file" name="place-photo-2" id="">   <br>
-        P3 <input type="file" name="place-photo-3" id="">   <br>
-        P4 <input type="file" name="place-photo-4" id="">   <br>
-        P5 <input type="file" name="place-photo-5" id="">   <br>
-        P6 <input type="file" name="place-photo-6" id="">   <br><br>
-        
-        <label for="place-description">
 
-        </label>
-
-        <fieldset >
-            <legend>Thing</legend>
-            <label for="town-name">Town</label>
-            <input type="text" name="town-name" id="">
-        </fieldset>
-        <label for="city-name">City</label>
-        <input type="text" name="city-name" id="">
-        <label for="state">State</label>
-        <input type="text" name="country-name" id="">
-        <label for="area-owner">Athourity:</label>
-        Private
-        <input type="radio" name="authourity" id="" checked='true'>
-        Open
-        <input type="radio" name="authourity" id="">
-        <br><br>
-        
-        <label for="owner">Owner:</label>
-        <input type="text" name="owner" id="">
-        input
-        <button type="button" id="sumit">Send </button>
-        <select name="" id="">
-            <option value="1">Mysore</option>
-            <option value="2">bangaloer</option>
-            <option value="3">dark</option>
-        </select>
-        
-
+    <div class="container">
+        <div class="upload-box">
+            <form action="/upload/new/place" method="post" enctype="multipart/form-data">
+                <div class="place-name">
+                    <label for="place-name-text">Name:</label>
+                    <input type="text" name="placenametext" id="placeName">
+                </div>
+                <div class="loc-name">
+                    <label for="loc-name-text">Location:</label>
+                    <span>Latitude:<input type="text" name="loclat" id="locLat">
+                        Longitude: <input type="text" name="loclng" id="locLng">
+                    </span>
+                </div>
+                <div class="place-images">
+                    <div class="photos">
+                        <p>Photos:</p>
+                        <label for="place-images-1">Image-1</label>
+                            <input type="file" name="placeImgOne" id="placeImages1">
+                        <label for="place-images-2">Image-2</label>
+                            <input type="file" name="placeImgTwo" id="placeImages2">
+                    </div>
+                </div>
+                <div class="desc-langs">
+                    <div class="desc-eng">
+                        <p> <input type="text" name="descEng" id=""> </p>
+                    </div>
+                    <div class="desc-ka">
+                        <p>
+                            <input type="text" name="descKa" id="">
+                        </p>
+                    </div>
+                    <div class="desc-hi">   
+                        <p>
+                            <input type="text" name="descHi" id="">
+                        </p>
+                    </div>
+                </div>
+                <div class="details">
+                    <div class="place-town place-details">
+                        <label for="place-town-name">Town:</label>  
+                        <input type="text" name="placeTownName" id="placeTownName">
+                    </div>
+                    <div class="place-city place-details">
+                        <label for="place-city-name">City:</label>
+                        <input type="text" name="placeCityName" id="placeCityName">
+                    </div>
+                    <div class="place-state place-details">
+                        <label for="place-state-name">State:</label>
+                        <input type="text" name="placeStateName" id="placeStateName">
+                    </div>
+                    <div class="place-details place-country">
+                        <label for="place-country-name">Country:</label>
+                        <input type="text" name="placeCountryName" id="placeCountryName">
+                    </div>
+                </div>
+                <div class="access">
+                    <label for="place-owner">Ownership:</label>
+                    Public:<input type="radio" name="owner" id="public" value='1'>
+                    Private:<input type="radio" name="owner" id="private" value="0">
+                    <input type="text" name="placeOwnerName" id="placeOwnerName" placeholder="Owner">
+                    
+                </div>
+                <div class="sbt-btn">
+                    <input type="submit" value="Add Place" id='addPlaceBtn'>
+                </div>
+            </form>
+        </div>
     </div>
     <script src="./scripts/script_index.js"></script>
 </body>
