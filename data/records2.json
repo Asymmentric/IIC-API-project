@@ -1,8 +1,8 @@
 
 
 [
-{
-    "name":"Name of some place",
+{   "id":"1",
+    "name":"Jog Falls",
     "location":{
         "lat":"42.1212",
         "lng":"80.3652"
@@ -12,11 +12,11 @@
         "img2":"https://www.transindiatravels.com/wp-content/uploads/jog-falls-1.jpg"
     },
     "language":{
-        "en":"Place desc in english",
-        "ka":"place desc in kannada",
-        "hi":"place desc in hindi"
+        "en":"Jog Falls is a waterfall on the Sharavati river located in the Western Ghats near Sagar Taluk of Shivamogga District, Karnataka, India. It is the second highest plunge waterfall in India. It is a segmented waterfall which depends on rain and season becomes a plunge waterfall. The falls are major attractions for tourists and is ranked 36th in the list of free-falling waterfalls, 490th in the world by list of waterfalls by total height, 128th in the list of single-drop waterfalls in the World by the waterfall database",
+        "ka":"ಜೋಗ್ ಫಾಲ್ಸ್ ಶರಾವತಿ ನದಿಯ ಮೇಲಿರುವ ಜಲಪಾತವಾಗಿದ್ದು, ಇದು ಭಾರತದ ಕರ್ನಾಟಕದ ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಯ ಸಾಗರ ತಾಲೂಕಿನ ಪಶ್ಚಿಮ ಘಟ್ಟಗಳಲ್ಲಿ ನೆಲೆಗೊಂಡಿದೆ. ಇದು ಭಾರತದಲ್ಲಿ ಎರಡನೇ ಅತಿ ಎತ್ತರದ ಧುಮುಕುವ ಜಲಪಾತವಾಗಿದೆ. ಇದು ವಿಭಜಿತ ಜಲಪಾತವಾಗಿದ್ದು, ಮಳೆಯ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದೆ ಮತ್ತು ಋತುವಿನಲ್ಲಿ ಧುಮುಕುವ ಜಲಪಾತವಾಗುತ್ತದೆ. ಈ ಜಲಪಾತವು ಪ್ರವಾಸಿಗರಿಗೆ ಪ್ರಮುಖ ಆಕರ್ಷಣೆಯಾಗಿದೆ ಮತ್ತು ಮುಕ್ತವಾಗಿ ಬೀಳುವ ಜಲಪಾತಗಳ ಪಟ್ಟಿಯಲ್ಲಿ 36 ನೇ ಸ್ಥಾನದಲ್ಲಿದೆ, ಒಟ್ಟು ಎತ್ತರದ ಜಲಪಾತಗಳ ಪಟ್ಟಿಯಿಂದ ವಿಶ್ವದ 490 ನೇ ಸ್ಥಾನದಲ್ಲಿದೆ, ಜಲಪಾತದ ಡೇಟಾಬೇಸ್‌ನಿಂದ ವಿಶ್ವದ ಏಕ-ಹನಿ ಜಲಪಾತಗಳ ಪಟ್ಟಿಯಲ್ಲಿ 128 ನೇ ಸ್ಥಾನದಲ್ಲಿದೆ.",
+        "hi":"जोग फॉल्स, शिवमोग्गा जिले, कर्नाटक, भारत के सागर तालुक के पास पश्चिमी घाट में स्थित शरवती नदी पर एक झरना है। यह भारत का दूसरा सबसे ऊंचा डुबकी वाला जलप्रपात है। यह एक खंडित जलप्रपात है जो वर्षा पर निर्भर करता है और मौसम एक डुबकी जलप्रपात बन जाता है। फॉल्स पर्यटकों के लिए प्रमुख आकर्षण हैं और फ्री-फॉलिंग झरनों की सूची में 36 वें स्थान पर हैं, कुल ऊंचाई से झरनों की सूची में दुनिया में 490 वें, जलप्रपात डेटाबेस द्वारा विश्व में एकल-बूंद झरनों की सूची में 128 वें स्थान पर हैं।"
     },
-    "description":"Description of the place",
+   
     "town":"town",
     "city":"Mysore",
     "state":"Karnataka",
@@ -26,7 +26,8 @@
 },
 
 {
-    "name":"Name of some place",
+    "id":"2",
+    "name":"FORT",
     "location":{
         "lat":"45.3991",
         "lng":"89.3976"
@@ -36,11 +37,9 @@
         "img2":"https://img.traveltriangle.com/blog/wp-content/uploads/2018/05/rajwada_cover_1_700x367.jpg"
     },
     "language":{
-        "en":"Place desc in english",
-        "ka":"",
-        "hi":"place desc in hindi"
+        "en":"Indore is Madhya Pradesh’s biggest city as well as a commercial and cultural hub. It is dotted with many historic monuments like Rajwada Palace and Lal Bagh Palace, which makes it a brilliant city to visit if you are a history, art, or culture enthusiast. Indore’s cuisine needs no introduction as it is a major part of the city’s charm. From Poha Jalebi to Khatta Samosa, every delicacy offered here is a delight for street food lovers. Besides culture, history and food, Indore is also known for its cleanliness",
+        "hi":"इंदौर मध्य प्रदेश का सबसे बड़ा शहर होने के साथ-साथ एक व्यावसायिक और सांस्कृतिक केंद्र भी है। यह राजवाड़ा पैलेस और लाल बाग पैलेस जैसे कई ऐतिहासिक स्मारकों से युक्त है, जो इसे इतिहास, कला या संस्कृति के प्रति उत्साही होने के लिए एक शानदार शहर बनाता है। इंदौर के व्यंजनों को किसी परिचय की आवश्यकता नहीं है क्योंकि यह शहर के आकर्षण का एक प्रमुख हिस्सा है। पोहा जलेबी से लेकर खट्टा समोसा तक, यहां दिया जाने वाला हर व्यंजन स्ट्रीट फूड प्रेमियों के लिए एक खुशी की बात है। इंदौर संस्कृति, इतिहास और खान-पान के अलावा साफ-सफाई के लिए भी जाना जाता है"
     },
-    "description":"Description of the place",
     "town":"Town",
     "city":"Indore",
     "state":"Madhya Pradesh",
@@ -49,6 +48,7 @@
     "verified":false
 },
 {
+    "id":"3"
     "name":"Name of some place",
     "location":{
         "lat":"45.3991",
@@ -59,20 +59,20 @@
         "img2":"https://www.transindiatravels.com/wp-content/uploads/jog-falls-1.jpg"
     },
     "language":{
-        "en":"Place desc in english",
-        "ka":"",
-        "hi":"place desc in hindi"
-    },
-    "description":"Description of the place",
+        "en":"Chelvara Falls is a natural waterfall formed by small stream, a tributary of Kaveri near Cheyyandane village which is on Virajpet - Talakaveri State Highway (SH 90) around 16 km from Virajpet, in the state of Karnataka, India It is located on the way to Kabbe Holidays Homestay and is near Thadiyandamol, the highest point in Kodagu. The falls is visible after walking 200 meters into the forest from the place available for parking.",
+        "ka":"ಚೆಲ್ವರ ಜಲಪಾತವು ಚಿಕ್ಕ ಸ್ಟ್ರೀಮ್‌ನಿಂದ ರೂಪುಗೊಂಡ ನೈಸರ್ಗಿಕ ಜಲಪಾತವಾಗಿದೆ, ಇದು ಚೆಯ್ಯಂಡಾಣೆ ಗ್ರಾಮದ ಬಳಿ ಕಾವೇರಿಯ ಉಪನದಿಯಾಗಿದೆ, ಇದು ವಿರಾಜಪೇಟೆ - ತಲಕಾವೇರಿ ರಾಜ್ಯ ಹೆದ್ದಾರಿ (SH 90) ದಲ್ಲಿ ಕರ್ನಾಟಕ ರಾಜ್ಯದ ವಿರಾಜಪೇಟೆಯಿಂದ 16 ಕಿಮೀ ದೂರದಲ್ಲಿದೆ. ಇದು ಕಬ್ಬೆ ಹಾಲಿಡೇಸ್ ಹೋಮ್‌ಸ್ಟೇಗೆ ಹೋಗುವ ದಾರಿಯಲ್ಲಿದೆ ಮತ್ತು ಕೊಡಗಿನ ಅತಿ ಎತ್ತರದ ಸ್ಥಳವಾದ ತಡಿಯಂಡಮೋಲ್ ಬಳಿ ಇದೆ. ವಾಹನ ನಿಲುಗಡೆಗೆ ಲಭ್ಯವಿರುವ ಸ್ಥಳದಿಂದ 200 ಮೀಟರ್ ಕಾಡಿನೊಳಗೆ ನಡೆದ ನಂತರ ಜಲಪಾತವು ಗೋಚರಿಸುತ್ತದೆ.",
+        "hi":"place desc in hindiचेलवारा जलप्रपात भारत के कर्नाटक राज्य में विराजपेट से लगभग 16 किमी दूर विराजपेट - तालकावेरी राज्य राजमार्ग (एसएच 90) पर स्थित चेयंदन गांव के पास कावेरी की एक सहायक नदी, छोटी धारा द्वारा निर्मित एक प्राकृतिक झरना है। यह कब्बे हॉलिडे होमस्टे के रास्ते में स्थित है और कोडागु के सबसे ऊंचे स्थान थडियांडामोल के पास है। पार्किंग के लिए उपलब्ध जगह से जंगल में 200 मीटर चलने के बाद यह झरना दिखाई देता है।
+  
     "town":"Town",
-    "city":"Indore",
-    "state":"Madhya Pradesh",
+    "city":"Kodagu",
+    "state":"Karnataka",
     "country":"India",
     "free":true,
     "verified":false
 },
 {
-    "name":"Name of some place",
+    "id":"4",
+    "name":"Lucknow Fort",
     "location":{
         "lat":"45.3991",
         "lng":"85.6258"
@@ -82,11 +82,11 @@
         "img2":"https://img.traveltriangle.com/blog/wp-content/uploads/2020/06/Ambedkar-Memorial-Park_8th-June.jpg"
     },
     "language":{
-        "en":"Place desc in english",
-        "ka":"",
-        "hi":"place desc in hindi"
+        "en":"The city of Lucknow has a unique charm to it. Serving as one of the two capitals of the state of Uttar Pradesh, it was always a major economic and educational hub and continues to be the same as we are about two decades into the 21st century. Moreover, the City of Nawabs is also a gem of a tourist destination, tempting people from near and far to plan a trip with their family and friends. Its biggest draw is its plethora of marvellous Mughal and British-era structures that have withstood the test of time to give people a glimpse of the past.",
+        "ka":"ಲಕ್ನೋ ನಗರಕ್ಕೆ ವಿಶಿಷ್ಟವಾದ ಆಕರ್ಷಣೆಯಿದೆ. ಉತ್ತರ ಪ್ರದೇಶ ರಾಜ್ಯದ ಎರಡು ರಾಜಧಾನಿಗಳಲ್ಲಿ ಒಂದಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದೆ, ಇದು ಯಾವಾಗಲೂ ಪ್ರಮುಖ ಆರ್ಥಿಕ ಮತ್ತು ಶೈಕ್ಷಣಿಕ ಕೇಂದ್ರವಾಗಿತ್ತು ಮತ್ತು ನಾವು 21 ನೇ ಶತಮಾನದಲ್ಲಿ ಸುಮಾರು ಎರಡು ದಶಕಗಳಿದಂತೆ ಅದೇ ರೀತಿ ಮುಂದುವರಿಯುತ್ತದೆ. ಇದಲ್ಲದೆ, ನವಾಬ್ಸ್ ನಗರವು ಪ್ರವಾಸಿ ತಾಣದ ರತ್ನವಾಗಿದೆ, ತಮ್ಮ ಕುಟುಂಬ ಮತ್ತು ಸ್ನೇಹಿತರೊಂದಿಗೆ ಪ್ರವಾಸವನ್ನು ಯೋಜಿಸಲು ಹತ್ತಿರದ ಮತ್ತು ದೂರದ ಜನರನ್ನು ಪ್ರಚೋದಿಸುತ್ತದೆ. ಇದರ ಅತಿ ದೊಡ್ಡ ಆಕರ್ಷಣೆಯೆಂದರೆ ಅದರ ಅದ್ಭುತವಾದ ಮೊಘಲ್ ಮತ್ತು ಬ್ರಿಟಿಷರ ಕಾಲದ ರಚನೆಗಳು, ಇದು ಜನರಿಗೆ ಹಿಂದಿನದನ್ನು ನೀಡಲು ಸಮಯದ ಪರೀಕ್ಷೆಯನ್ನು ತಡೆದುಕೊಂಡಿದೆ.",
+        "hi":"लखनऊ शहर का अपना एक अनूठा आकर्षण है। उत्तर प्रदेश राज्य की दो राजधानियों में से एक के रूप में कार्य करते हुए, यह हमेशा एक प्रमुख आर्थिक और शैक्षिक केंद्र था और अब भी वैसा ही बना हुआ है जैसा कि हम 21वीं सदी में लगभग दो दशकों में हैं। इसके अलावा, नवाबों का शहर भी एक पर्यटन स्थल का एक रत्न है, जो दूर-दूर के लोगों को अपने परिवार और दोस्तों के साथ यात्रा की योजना बनाने के लिए आकर्षित करता है। इसका सबसे बड़ा आकर्षण मुगल और ब्रिटिश-युग की अद्भुत संरचनाओं का ढेर है जो लोगों को अतीत की एक झलक देने के लिए समय की कसौटी पर खरे उतरे हैं।"
     },
-    "description":"Description of the place",
+    
     "town":"Town",
     "city":"Lucknow",
     "state":"Uttar Pradesh",
@@ -95,6 +95,7 @@
     "verified":false
 },
 {
+    "id":"5"
     "name":"Name of some place",
     "location":{
         "lat":"45.3991",
@@ -105,11 +106,10 @@
         "img2":"https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/Nashik-Hill-stations0310.jpg"
     },
     "language":{
-        "en":"Place desc in english",
-        "ka":"",
-        "hi":"place desc in hindi"
+        "en":"Nashik is a beautiful city in Maharashtra that offers serenity at its best and is a culturally rich destination. It is home to various temples that will give you an escape from the monotony of daily life. Apart from that, there are various waterfalls near Nashik that will rejuvenate your soul. These waterfalls are situated in exotic locations as they originate from Brahmagiri hill and Trimbakeshwar hill of the Sahyadri Mountain Ranges. This makes them ultimate attractions to hike and trek and witness those scenic waterfalls dropping from lush green surroundings. It is the best place to be visited by nature lovers, honeymooners, adventure seekers and weekend getaway spots for the city dwellers.",
+        "ka":"ನಾಸಿಕ್ ಮಹಾರಾಷ್ಟ್ರದ ಒಂದು ಸುಂದರವಾದ ನಗರವಾಗಿದ್ದು, ಇದು ಅತ್ಯುತ್ತಮವಾದ ಪ್ರಶಾಂತತೆಯನ್ನು ನೀಡುತ್ತದೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕವಾಗಿ ಶ್ರೀಮಂತ ತಾಣವಾಗಿದೆ. ಇದು ದೈನಂದಿನ ಜೀವನದ ಏಕತಾನತೆಯಿಂದ ಪಾರಾಗಲು ವಿವಿಧ ದೇವಾಲಯಗಳಿಗೆ ನೆಲೆಯಾಗಿದೆ. ಇದಲ್ಲದೆ, ನಾಸಿಕ್ ಬಳಿ ವಿವಿಧ ಜಲಪಾತಗಳಿವೆ, ಅದು ನಿಮ್ಮ ಆತ್ಮವನ್ನು ಪುನರುಜ್ಜೀವನಗೊಳಿಸುತ್ತದೆ. ಈ ಜಲಪಾತಗಳು ಸಹ್ಯಾದ್ರಿ ಪರ್ವತ ಶ್ರೇಣಿಗಳ ಬ್ರಹ್ಮಗಿರಿ ಬೆಟ್ಟ ಮತ್ತು ತ್ರಯಂಬಕೇಶ್ವರ ಬೆಟ್ಟದಿಂದ ಹುಟ್ಟಿಕೊಂಡಿರುವುದರಿಂದ ವಿಲಕ್ಷಣ ಸ್ಥಳಗಳಲ್ಲಿ ನೆಲೆಗೊಂಡಿವೆ. ಇದು ಪಾದಯಾತ್ರೆಗೆ ಮತ್ತು ಚಾರಣಕ್ಕೆ ಮತ್ತು ಹಚ್ಚ ಹಸಿರಿನ ಪರಿಸರದಿಂದ ಬೀಳುವ ಆ ರಮಣೀಯ ಜಲಪಾತಗಳನ್ನು ವೀಕ್ಷಿಸಲು ಅವರಿಗೆ ಅಂತಿಮ ಆಕರ್ಷಣೆಯಾಗಿದೆ. ಪ್ರಕೃತಿ ಪ್ರಿಯರು, ಹನಿಮೂನ್‌ಗಳು, ಸಾಹಸ ಪ್ರಿಯರು ಮತ್ತು ನಗರವಾಸಿಗಳಿಗೆ ವಾರಾಂತ್ಯದ ವಿಹಾರ ತಾಣಗಳಿಗೆ ಭೇಟಿ ನೀಡಲು ಇದು ಅತ್ಯುತ್ತಮ ಸ್ಥಳವಾಗಿದೆ."
     },
-    "description":"Description of the place",
+  
     "town":"Town",
     "city":"Nashik",
     "state":"Maharashtra",
@@ -119,7 +119,8 @@
 },
 
 {
-    "name":"Name of some place",
+    "id":"6"
+    "name":"Tawang Valley",
     "location":{
         "lat":"37.7373",
         "lng":"97.3997"
@@ -129,11 +130,9 @@
         "img2":"https://img.traveltriangle.com/blog/wp-content/uploads/2018/04/Sela-Pass-In-Arunachal-Pradesh.jpg"
     },
     "language":{
-        "en":"Place desc in english",
-        "ka":"",
-        "hi":"place desc in hindi"
+        "en":"Tawang valley is bordered by Tibet in the north, Bhutan in the south-west and Sela ranges in the east. Famously known as 'Mon-Yul', Tawang has been traditionally inhabited by the Monpa tribe who are still a majority in this region – a reason why it boasts of rich history and culture",
+        "hi":"तवांग घाटी की सीमा उत्तर में तिब्बत, दक्षिण-पश्चिम में भूटान और पूर्व में सेला पर्वत से लगती है। 'मोन-यूल' के नाम से प्रसिद्ध, तवांग में पारंपरिक रूप से मोनपा जनजाति का निवास है, जो अभी भी इस क्षेत्र में बहुसंख्यक हैं - यही कारण है कि यह समृद्ध इतिहास और संस्कृति का दावा करता है।"
     },
-    "description":"Description of the place",
     "town":"Town",
     "city":"Tawang",
     "state":"Arunachal Pradesh",
@@ -142,7 +141,8 @@
     "verified":false
 },
 {
-    "name":"Name of some place",
+    "id":"7",
+    "name":"Vebanda",
     "location":{
         "lat":"39.9973",
         "lng":"89.3976"
@@ -152,11 +152,11 @@
         "img2":"https://media-cdn.tripadvisor.com/media/photo-s/0d/de/f0/eb/backwater-tourism.jpg"
     },
     "language":{
-        "en":"Place desc in english",
-        "ka":"",
-        "hi":"place desc in hindi"
+        "en":"Vembanad, also known as Punnamada is the longest lake in India,[1] as well as the largest lake in the state of Kerala. With an area of 2033 square kilometers and a maximum length of 96.5 km, it is the second largest Ramsar site in India only after the Sunderbans in West Bengal. Spanning several districts in the state of Kerala, it is known as Vembanadu Lake in Kottayam, Vaikom, Changanassery, Punnamada Lake in Alappuzha, Punnappra, Kuttanadu and Kochi Lake in Kochi.",
+        "ka":"ಪುನ್ನಮಡ ಎಂದೂ ಕರೆಯಲ್ಪಡುವ ವೆಂಬನಾಡ್ ಭಾರತದ ಅತಿ ಉದ್ದದ ಸರೋವರವಾಗಿದೆ,[1] ಹಾಗೆಯೇ ಕೇರಳ ರಾಜ್ಯದ ಅತಿದೊಡ್ಡ ಸರೋವರವಾಗಿದೆ. 2033 ಚದರ ಕಿಲೋಮೀಟರ್ ವಿಸ್ತೀರ್ಣ ಮತ್ತು ಗರಿಷ್ಠ ಉದ್ದ 96.5 ಕಿಮೀ, ಇದು ಪಶ್ಚಿಮ ಬಂಗಾಳದ ಸುಂದರ್‌ಬನ್ಸ್ ನಂತರ ಭಾರತದ ಎರಡನೇ ಅತಿದೊಡ್ಡ ರಾಮ್‌ಸರ್ ಸೈಟ್ ಆಗಿದೆ. ಕೇರಳ ರಾಜ್ಯದ ಹಲವಾರು ಜಿಲ್ಲೆಗಳಲ್ಲಿ ವ್ಯಾಪಿಸಿರುವ ಇದನ್ನು ಕೊಟ್ಟಾಯಂನಲ್ಲಿ ವೆಂಬನಾಡು ಸರೋವರ, ವೈಕೋಮ್, ಚಂಗನಾಸ್ಸೆರಿ, ಆಲಪ್ಪುಳದ ಪುನ್ನಮಾಡ ಸರೋವರ, ಪುನ್ನಪ್ರಾ, ಕುಟ್ಟನಾಡು ಮತ್ತು ಕೊಚ್ಚಿಯಲ್ಲಿ ಕೊಚ್ಚಿ ಸರೋವರ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+        
     },
-    "description":"Description of the place",
+   
     "town":"Town",
     "city":"Kochi",
     "state":"Kerala",
@@ -165,7 +165,8 @@
     "verified":false
 },
 {
-    "name":"Name of some place",
+    "id":"8"
+    "name":"Valley",
     "location":{
         "lat":"45.3991",
         "lng":"78.2236"
@@ -175,11 +176,11 @@
         "img2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/38/0a/3d/caption.jpg?w=300&h=300&s=1"
     },
     "language":{
-        "en":"Place desc in english",
-        "ka":"",
-        "hi":"place desc in hindi"
+        "en":"Madurai, formerly (until 1949) Madura, city, south-central Tamil Nadu state, southern India. It is located on the Vaigai River, about 30 miles (48 km) southeast of Dindigul. Madurai is the third most populous, and probably the oldest, city in the state.",
+       
+        "hi":"मदुरै, पूर्व में (1949 तक) मदुरा, शहर, दक्षिण-मध्य तमिलनाडु राज्य, दक्षिणी भारत। यह डिंडीगुल से लगभग 30 मील (48 किमी) दक्षिण-पूर्व में वैगई नदी पर स्थित है। मदुरै राज्य का तीसरा सबसे अधिक आबादी वाला और शायद सबसे पुराना शहर है।"
     },
-    "description":"Description of the place",
+  
     "town":"Town",
     "city":"Madurai",
     "state":"Tamil Nadu",
@@ -188,7 +189,8 @@
     "verified":false
 },
 {
-    "name":"Name of some place",
+    "id":"9"
+    "name":"Assam Valley",
     "location":{
         "lat":"50.6632",
         "lng":"90.3365"
@@ -198,11 +200,11 @@
         "img2":"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2018/02/guwahati.jpg"
     },
     "language":{
-        "en":"Place desc in english",
-        "ka":"",
-        "hi":"place desc in hindi"
+        "en":"Guwahati  is the biggest city of the Indian state of Assam and also the largest metropolis in northeastern India. Dispur, the capital of Assam, is in the circuit city region located within Guwahati and is the seat of the Government of Assam. A major riverine port city along with hills, and one of the fastest growing",
+        "ka":"ಗುವಾಹಟಿಯು ಭಾರತದ ಅಸ್ಸಾಂ ರಾಜ್ಯದ ಅತಿದೊಡ್ಡ ನಗರವಾಗಿದೆ ಮತ್ತು ಈಶಾನ್ಯ ಭಾರತದ ಅತಿದೊಡ್ಡ ಮಹಾನಗರವಾಗಿದೆ. ಅಸ್ಸಾಂನ ರಾಜಧಾನಿಯಾದ ದಿಸ್ಪುರ್, ಗುವಾಹಟಿಯೊಳಗಿನ ಸರ್ಕ್ಯೂಟ್ ಸಿಟಿ ಪ್ರದೇಶದಲ್ಲಿದೆ ಮತ್ತು ಇದು ಅಸ್ಸಾಂ ಸರ್ಕಾರದ ಸ್ಥಾನವಾಗಿದೆ. ಬೆಟ್ಟಗಳ ಜೊತೆಗೆ ಪ್ರಮುಖ ನದಿಯ ಬಂದರು ನಗರ, ಮತ್ತು ವೇಗವಾಗಿ ಬೆಳೆಯುತ್ತಿರುವ ನಗರಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ",
+        "hi":"गुवाहाटी  पूर्व में गौहाटी  भारतीय राज्य असम का सबसे बड़ा शहर है और पूर्वोत्तर भारत का सबसे बड़ा महानगर भी है। असम की राजधानी दिसपुर, गुवाहाटी के भीतर स्थित सर्किट सिटी क्षेत्र में है और असम सरकार की सीट है। पहाड़ियों के साथ एक प्रमुख नदी बंदरगाह शहर, और सबसे तेजी से बढ़ते शहरों में से एक"
     },
-    "description":"Description of the place",
+ 
     "town":"Town",
     "city":"Guwahati",
     "state":"Assam",
@@ -211,7 +213,8 @@
     "verified":false
 },
 {
-    "name":"Name of some place",
+    "id":"10"
+    "name":"Rann of Kutch",
     "location":{
         "lat":"45.3991",
         "lng":"22.3215"
@@ -221,11 +224,11 @@
         "img2":"https://www.tripsavvy.com/thmb/FbaLdyaHvRSsZ2QqcnUckE-nhJE=/1883x1412/smart/filters:no_upscale()/GettyImages-537000923-541774dbe2d44759815fdf0719b04685.jpg"
     },
     "language":{
-        "en":"Place desc in english",
-        "ka":"",
-        "hi":"place desc in hindi"
+        "en":"The Rann of Kutch (mispelled as Kuchchh) is a large area of salt marshes that span the border between India and Pakistan. It is located mostly in Gujarat (primarily the Kutch district), India, and in some parts of Sindh, Pakistan. It is divided into the Great Rann and Little Rann.",
+       
+        "hi":"कच्छ का रण (कच्छ के रूप में गलत वर्तनी) नमक दलदल का एक बड़ा क्षेत्र है जो भारत और पाकिस्तान के बीच की सीमा तक फैला है। यह ज्यादातर गुजरात (मुख्य रूप से कच्छ जिले), भारत और सिंध, पाकिस्तान के कुछ हिस्सों में स्थित है। यह ग्रेट रैन और लिटिल रैन में विभाजित है।"
     },
-    "description":"Description of the place",
+
     "town":"Town",
     "city":"Rann of Kutch",
     "state":"Gujarat",
@@ -234,7 +237,8 @@
     "verified":false
 },
 {
-    "name":"Name of some place",
+    "id":"11"
+    "name":"Jaipur Fort",
     "location":{
         "lat":"30.1144",
         "lng":"89.3976"
@@ -244,11 +248,11 @@
         "img2":"https://i1.wp.com/www.jaipurstuff.com/wp-content/uploads/2019/10/jal-mahal-sunset-places-jaipur.jpg?resize=640%2C358&ssl=1"
     },
     "language":{
-        "en":"Place desc in english",
-        "ka":"",
-        "hi":"place desc in hindi"
+        "en":"Amer Fort or Amber Fort is a fort located in Amer, Rajasthan, India. Amer is a town with an area of 4 square kilometres (1.5 sq mi)[1] located 11 kilometres (6.8 mi) from Jaipur, the capital of Rajasthan. The town of Amer and the Amber Fort were originally built by Raja Man Singh and additions were, later, made by Sawai Jai Singh. Located high on a hill, it is the principal tourist attraction in Jaipur.",
+        "ka":"ಅಮೇರ್ ಕೋಟೆ ಅಥವಾ ಅಂಬರ್ ಕೋಟೆಯು ಭಾರತದ ರಾಜಸ್ಥಾನದ ಅಮೇರ್‌ನಲ್ಲಿರುವ ಒಂದು ಕೋಟೆಯಾಗಿದೆ. ಅಮೇರ್ 4 ಚದರ ಕಿಲೋಮೀಟರ್ (1.5 ಚದರ ಮೈಲಿ) [1] ವಿಸ್ತೀರ್ಣ ಹೊಂದಿರುವ ಪಟ್ಟಣವಾಗಿದ್ದು, ರಾಜಸ್ಥಾನದ ರಾಜಧಾನಿ ಜೈಪುರದಿಂದ 11 ಕಿಲೋಮೀಟರ್ (6.8 ಮೈಲಿ) ದೂರದಲ್ಲಿದೆ. ಅಮೇರ್ ಪಟ್ಟಣ ಮತ್ತು ಅಂಬರ್ ಕೋಟೆಯನ್ನು ಮೂಲತಃ ರಾಜಾ ಮಾನ್ ಸಿಂಗ್ ನಿರ್ಮಿಸಿದನು ಮತ್ತು ಸೇರ್ಪಡೆಗಳನ್ನು ನಂತರ ಸವಾಯಿ ಜೈ ಸಿಂಗ್ ಮಾಡಿದನು. ಬೆಟ್ಟದ ಮೇಲಿರುವ ಇದು ಜೈಪುರದ ಪ್ರಮುಖ ಪ್ರವಾಸಿ ಆಕರ್ಷಣೆಯಾಗಿದೆ."
+        
     },
-    "description":"Description of the place",
+   
     "town":"Town",
     "city":"Jaipur",
     "state":"Rajasthan",
@@ -258,7 +262,8 @@
 },
 
 {
-    "name":"Name of some place",
+    "id":"12"
+    "name":"Bahadurgarh Fort",
     "location":{
         "lat":"46.3312",
         "lng":"89.4444"
@@ -268,11 +273,11 @@
         "img2":"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/06/Zakir-Hussain-Rose-Garden1.jpg"
     },
     "language":{
-        "en":"Place desc in english",
-        "ka":"",
-        "hi":"place desc in hindi"
+        "en":"Bahadurgarh Fort is one of the oldest forts in Patiala. It was built even before the Quila Mubarak. The fortress was constructed by Nawab Saif Ali Khan which is named after the Sikh Guru Tegh Bahadur. There is a Gurudwara named Gurudwara Sahib Patshai Navin which is a popular religious place in Patiala. There is also a mosque inside the fort complex. Bahadurgarh Fort is one of the famous forts in Patiala",
+        "ka":"ಬಹದ್ದೂರ್ಗಢ ಕೋಟೆಯು ಪಟಿಯಾಲದಲ್ಲಿರುವ ಅತ್ಯಂತ ಹಳೆಯ ಕೋಟೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. ಇದನ್ನು ಕ್ವಿಲಾ ಮುಬಾರಕ್‌ಗಿಂತ ಮುಂಚೆಯೇ ನಿರ್ಮಿಸಲಾಗಿತ್ತು. ಈ ಕೋಟೆಯನ್ನು ನವಾಬ್ ಸೈಫ್ ಅಲಿ ಖಾನ್ ನಿರ್ಮಿಸಿದ, ಇದನ್ನು ಸಿಖ್ ಗುರು ತೇಜ್ ಬಹದ್ದೂರ್ ಹೆಸರಿಡಲಾಗಿದೆ. ಗುರುದ್ವಾರ ಸಾಹಿಬ್ ಪಟ್ಶಾಯಿ ನವೀನ್ ಹೆಸರಿನ ಗುರುದ್ವಾರವಿದೆ, ಇದು ಪಟಿಯಾಲಾದಲ್ಲಿ ಜನಪ್ರಿಯ ಧಾರ್ಮಿಕ ಸ್ಥಳವಾಗಿದೆ. ಕೋಟೆ ಸಂಕೀರ್ಣದ ಒಳಗೆ ಮಸೀದಿಯೂ ಇದೆ. ಬಹದ್ದೂರ್ಗಢ ಕೋಟೆಯು ಪಟಿಯಾಲದಲ್ಲಿರುವ ಪ್ರಸಿದ್ಧ ಕೋಟೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ",
+        "hi":"बहादुरगढ़ किला पटियाला के सबसे पुराने किलों में से एक है। इसे किला मुबारक से पहले भी बनाया गया था। किले का निर्माण नवाब सैफ अली खान ने किया था जिसका नाम सिख गुरु तेग बहादुर के नाम पर रखा गया है। गुरुद्वारा साहिब पटशाई नवीन नाम का एक गुरुद्वारा है जो पटियाला में एक लोकप्रिय धार्मिक स्थान है। किले के परिसर के अंदर एक मस्जिद भी है। बहादुरगढ़ किला पटियाला के प्रसिद्ध किलों में से एक है"
     },
-    "description":"Description of the place",
+    
     "town":"Town",
     "city":"Patiala",
     "state":"Punjab",
