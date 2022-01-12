@@ -102,8 +102,8 @@ app.post('/upload/new/place',async (req,res)=>{
                     lng:req.body.loclng
                 },
                 images:{
-                    img1:'http://localhost:5055/'+encodeURIComponent(imgLoc1),
-                    img2:'http://localhost:5055/'+encodeURIComponent(imgLoc2)
+                    img1:'https://unexplored-places.herokuapp.com/'+encodeURIComponent(imgLoc1),
+                    img2:'https://unexplored-places.herokuapp.com/'+encodeURIComponent(imgLoc2)
                 },
                 language:{
                     en:req.body.descEng,
