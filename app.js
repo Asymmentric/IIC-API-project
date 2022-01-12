@@ -27,21 +27,26 @@ app.get('/fetch/details/:city',(req,res)=>{
     fs.readFile('data/records2.json','utf-8',(err,data)=>{
         let recVal=JSON.parse(data)
         let dataToSend={}
+        // console.log(recVal);
         for (const key in recVal) {
+            
             let cityName=recVal[key].city;
+            
+
             if(cityName.toLowerCase()===req.params.city.toLocaleLowerCase()){
-                
+                console.log(cityName.toLocaleLowerCase(),req.params.city.toLocaleLowerCase());
                 dataToSend[key]=recVal[key]
+                // console.log(dataToSend);
             }
         }
-
-         res.send(dataToSend)
+        console.log(dataToSend);
+        res.send({status:"ok",note:"It is only a dummy data and does not represent the place in real",Places:dataToSend})
     })
 })
 app.get('/fetch/detail',(req,res)=>{
     fs.readFile('data/records2.json','utf-8',(err,data)=>{
         let recVal=JSON.parse(data)
-        res.send(recVal)
+        res.send({status:"ok",note:"It is only a dummy data and does not represent the place in real",Places:recVal})
     })
 })
 // app.post('/upload',async (req,res)=>{
@@ -126,7 +131,7 @@ app.post('/upload/new/place',async (req,res)=>{
                     }
                 })
             })
-
+            
             res.send({
                                 status:true,
                                 msg:'File is uploaded',
