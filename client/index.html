@@ -11,66 +11,67 @@
 
     </header>
 
+<center>
     <div class="container">
         <div class="upload-box">
             <form action="/upload/new/place" method="post" enctype="multipart/form-data">
                 <div class="place-name">
                     <label for="place-name-text">Name:</label>
-                    <input type="text" name="placenametext" id="placeName">
+                    <input type="text" name="placeNameText" id="placeName" required>
                 </div>
                 <div class="loc-name">
                     <label for="loc-name-text">Location:</label>
-                    <span>Latitude:<input type="text" name="loclat" id="locLat">
-                        Longitude: <input type="text" name="loclng" id="locLng">
+                    <span>Latitude:<input type="text" name="loclat" id="locLatt" required>
+                        Longitude: <input type="text" name="loclng" id="locLngg" required>
                     </span>
                 </div>
                 <div class="place-images">
                     <div class="photos">
                         <p>Photos:</p>
                         <label for="place-images-1">Image-1</label>
-                            <input type="file" name="placeImgOne" id="placeImages1">
+                            <input type="file" name="placeImgOne" id="placeImages1" required>
                         <label for="place-images-2">Image-2</label>
-                            <input type="file" name="placeImgTwo" id="placeImages2">
+                            <input type="file" name="placeImgTwo" id="placeImages2" required>
                     </div>
                 </div>
                 <div class="desc-langs">
                     <div class="desc-eng">
-                        <p> <input type="text" name="descEng" id=""> </p>
+                        <p> <input type="text" name="descEng" id="" required> </p>
                     </div>
                     <div class="desc-ka">
                         <p>
-                            <input type="text" name="descKa" id="">
+                            <input type="text" name="descKa" id="" required>
                         </p>
                     </div>
                     <div class="desc-hi">   
                         <p>
-                            <input type="text" name="descHi" id="">
+                            <input type="text" name="descHi" id="" required>
                         </p>
                     </div>
                 </div>
                 <div class="details">
                     <div class="place-town place-details">
                         <label for="place-town-name">Town:</label>  
-                        <input type="text" name="placeTownName" id="placeTownName">
+                        <input type="text" name="placeTownName" id="placeTownName" required>
                     </div>
                     <div class="place-city place-details">
                         <label for="place-city-name">City:</label>
-                        <input type="text" name="placeCityName" id="placeCityName">
+                        <input type="text" name="placeCityName" id="placeCityName" required>
                     </div>
                     <div class="place-state place-details">
                         <label for="place-state-name">State:</label>
-                        <input type="text" name="placeStateName" id="placeStateName">
+                        <input type="text" name="placeStateName" id="placeStateName" required>
                     </div>
                     <div class="place-details place-country">
                         <label for="place-country-name">Country:</label>
-                        <input type="text" name="placeCountryName" id="placeCountryName">
+                        <input type="text" name="placeCountryName" id="placeCountryName" required>
                     </div>
                 </div>
                 <div class="access">
                     <label for="place-owner">Ownership:</label>
-                    Public:<input type="radio" name="owner" id="public" value='1'>
-                    Private:<input type="radio" name="owner" id="private" value="0">
-                    <input type="text" name="placeOwnerName" id="placeOwnerName" placeholder="Owner">
+                    Public:<input type="radio" name="owner" id="public" value='1' required>
+                    Private:<input type="radio" name="owner" id="private" value="0" required>
+                    <input type="text" name="placeOwnerName" id="placeOwnerName" placeholder="Owner" required>
                     
                 </div>
                 <div class="sbt-btn">
@@ -79,6 +80,22 @@
             </form>
         </div>
     </div>
-    <script src="./scripts/script_index.js"></script>
+</center>
+    <!-- <script src="./scripts/script_index.js"></script> -->
+  <script>
+    const lat=document.getElementById('locLatt')
+    const long=document.getElementById('locLngg')
+    
+    navigator.geolocation.getCurrentPosition((pos)=>{
+    setTimeout(() => {
+      lat.setAttribute('value',pos.coords.latitude)
+    long.setAttribute('value',pos.coords.longitude)
+    
+    },1000);
+    console.log('locad');
+    
+    })  
+  </script>
+
 </body>
 </html>
